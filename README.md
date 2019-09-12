@@ -8,3 +8,5 @@ Fazer a parte de cadastro mais completo para no final poder compartilhar dados c
 
 
 Foco do site é poder salvar arquivos online para compartilhamento. 
+
+A parte das imagens será criada utilizando modais e o que for preciso para deixar intuitiva ao usuário.
