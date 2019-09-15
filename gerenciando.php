@@ -53,20 +53,12 @@ session_start();
 ?>
 
 
-<h2 align="center"><blink> Espera ai que aqui vai te surpresa! <br>
+         <h2 align="center">titulo </h2><br>
 
-<p> Pagina para ver os arquivos: </p>
-
-Verificar login; (Dado E-mail)<br>
-
-Perguntar qual tipo de documento, se quer ver ou tudo, ou buscar por tipo, adicionar novo.<br>
-
-<p>Para adicionar novo:</p>
-
-Selecionar Arquivo - tipo de arquivo (Dar opções para escolher (Para qual finalidade o documento) - <br>Nome do Arquivo  (sempre aparecer em miniatura) se clicar abre modal com a imagem  </blink> </h2>
 
 
 
 
 </body>
 </html>
+
