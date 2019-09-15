@@ -59,9 +59,8 @@ padding: 30px;
 
     <div class="menu-top" align="center">
     <p>Bem Vindo, fique a vontade!! </p>
-       Para mais acesso, faça login.<br><br>
-    
-    <img src="documentosvideos.jpeg" alt="inicio" width="250" height="250">
+     
+    <img src="esolha_a_sua_imagem.jpeg" alt="inicio" width="250" height="250">
 </div>
 
 
